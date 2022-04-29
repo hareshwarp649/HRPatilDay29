@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "81621b0f-8194-49b1-865d-c8b98bf7289f": {
+      "ProjectGuid": "81621b0f-8194-49b1-865d-c8b98bf7289f",
+      "DisplayName": "IndianCensusAnalyser",
+      "ColorIndex": 0
+    },
+    "cf8d0aab-2878-46f6-97da-d1ac359ee9e2": {
+      "ProjectGuid": "cf8d0aab-2878-46f6-97da-d1ac359ee9e2",
+      "DisplayName": "IndianStateCensusAnalyser",
+      "ColorIndex": 1
+    },
+    "aaf79956-5316-4685-a201-5eb937547d22": {
+      "ProjectGuid": "aaf79956-5316-4685-a201-5eb937547d22",
+      "DisplayName": "IndianCensus",
+      "ColorIndex": 2
+    },
+    "c99cebf9-2dc6-443b-843e-e60139047781": {
+      "ProjectGuid": "c99cebf9-2dc6-443b-843e-e60139047781",
+      "DisplayName": "TestIndianCensus",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
